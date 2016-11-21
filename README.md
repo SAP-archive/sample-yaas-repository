@@ -7,8 +7,25 @@ This is a sample of repository with YaaS related project. It contains all the ne
 ## Overview
 
 Readme of your repository should start with 2 elements:
-- Badges
+- Badges (Optional)
 - Description
+
+### Badges (Optional)
+
+Depending on technology used for your project you can use different badges. These are a good way of sharing important information with your user, like:
+- Status of CI build plans
+- Number of downloads
+- Dependencies
+- Test coverage
+
+There are different providers. Choose badges wisely and one by one: 
+- https://badge.fury.io/
+- http://shields.io/
+- https://david-dm.org/
+
+### Description
+
+It is a must have element. Detaild description of the project.
 
 ## Table of Contents
 
