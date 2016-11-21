@@ -31,5 +31,11 @@ It is a must have element. Detaild description of the project.
 
 Make it easier to your project user and provide an easy to use table of contents (list of links) to navigate through the readme document.
 
+```
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+```
 
 
