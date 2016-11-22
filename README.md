@@ -41,8 +41,13 @@ Make it easier to your project user and provide an easy to use table of contents
 
 ### License
 
-License description and a link to license file. Apache 2.0 license file is located in this repo so you can take it to your repository: [LICENSE](LICENSE).
+License description and a link to license file. Filename must me `LICENSE.md`. Apache 2.0 license file is located in this repository so you can take it to your repository: [LICENSE](LICENSE).
 
 ### Contributing
 
-Info and a link to explanation about contribution rules.
+Info and a link to explanation about contribution rules. Filename must be `CONTRIBUTING.md`. Define rules for your project and describe:
+- When and how report an issue (this is also a contribution),
+- How to create a Pull Request, and what it should contain,
+- What are the rules you follow during the review
+
+Proper file is located in this repository so you can take it to your repository: [CONTRIBUTING](CENTRIBUTING)
