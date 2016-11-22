@@ -1,8 +1,8 @@
-_Put your description here.  Make a use of below checklist_
+Put your description here.  Make a use of below checklist
 
 
 
--
+Issue report checklist:
 - Version of the project:
 - Browser/version (+device/version):
 - Any other tested browsers/devices(OK/FAIL):
