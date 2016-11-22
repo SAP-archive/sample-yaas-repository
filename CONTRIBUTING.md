@@ -16,14 +16,14 @@ You can help this project by helping others who use it and need answer for some 
 ## Analyze Issues
 
 Analyzing issue reports can be a lot of effort. Any help is welcome!
-Go to [the Github issue tracker](/issues) and find an open issue which needs assistance.
+Go to [the Github issue tracker](../../issues) and find an open issue which needs assistance.
 
 ## Report an Issue
 
 If you find a defect or you have an idea for improvement you are welcome to report it.
 We can only handle well-reported, actual defects, so please follow the guidelines below and use [hybris Experts](https://experts.hybris.com/spaces/151/index.html) for support questions or when in doubt whether the issue is an actual defect.
 
-Go to [the Github issue tracker](/issues) and file an defect if you are sure about it.
+Go to [the Github issue tracker](../../issues) and file an defect if you are sure about it.
 
 ### Quick Checklist for Defects Reports
 
