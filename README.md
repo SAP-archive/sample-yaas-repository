@@ -1,5 +1,7 @@
 This is a sample of repository with YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
 
+**Work for this repository is in progress**
+
 --
 # Readme Requirements
 --
@@ -25,7 +27,7 @@ There are different providers. Choose badges wisely and one by one:
 
 ### Description
 
-It is a must have element. Detaild description of the project.
+It is a must have element. Detailed description of the project.
 
 ### Table of Contents
 
@@ -34,10 +36,25 @@ Make it easier to your project user and provide an easy to use table of contents
 ```
 * [Installation](#installation)
 * [Usage](#usage)
+* [Development](#development)
 * [License](#license)
 * [Contribution](#contribution)
+* [Defects and Feedback](#defects-and-feedback)
 ```
+### Instalation
 
+Explain what are the steps to install your project. For example:
+* If it is a node module, explain how to install it with NPM and what scripts to trigger to make it work
+* If it is a Java lib, explain what maven dependencies and another configuration to perform to get the dependency included in the project
+
+### Usage
+
+The most important section with a lot of subsections or documentation links.
+Explain how to use the project. Include or the instructions and documentation or provide a link to the page that contains those.
+
+### Development
+
+Put instructions on how to develop the project. It must be clear what to do, and how to trigger tests. Other contributors need to know how to make sure that their pull request will be accepted.
 
 ### License
 
@@ -57,8 +74,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+## Defects and Feedback
 
-### Contributing
+Explain exactly how to provide feedback and report defects for the project:
+```
+Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to report defects or feedback properly and then do it using the [the Github issue tracker](../../issues)
+```
+
+### Contribution
 
 Info and a link to explanation about contribution rules. Filename must be `CONTRIBUTING.md`. Define rules for your project and describe:
 - When and how report an issue (this is also a contribution),
