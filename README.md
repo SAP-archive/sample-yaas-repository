@@ -29,7 +29,7 @@ There are different providers. Choose badges wisely and one by one:
 
 It is a must have element. Detailed description of the project.
 
-### Table of Contents
+## Table of Contents
 
 Make it easier to your project user and provide an easy to use table of contents (list of links) to navigate through the readme document.
 
@@ -41,22 +41,22 @@ Make it easier to your project user and provide an easy to use table of contents
 * [Contribution](#contribution)
 * [Defects and Feedback](#defects-and-feedback)
 ```
-### Instalation
+## Instalation
 
 Explain what are the steps to install your project. For example:
 * If it is a node module, explain how to install it with NPM and what scripts to trigger to make it work
 * If it is a Java lib, explain what maven dependencies and another configuration to perform to get the dependency included in the project
 
-### Usage
+## Usage
 
 The most important section with a lot of subsections or documentation links.
 Explain how to use the project. Include or the instructions and documentation or provide a link to the page that contains those.
 
-### Development
+## Development
 
 Put instructions on how to develop the project. It must be clear what to do, and how to trigger tests. Other contributors need to know how to make sure that their pull request will be accepted.
 
-### License
+## License
 
 License description and a link to license file. Filename must me `LICENSE.md`. Apache 2.0 license file is located in this repository so you can take it to your repository: [LICENSE](LICENSE).
 
@@ -81,7 +81,7 @@ Explain exactly how to provide feedback and report defects for the project:
 Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to report defects or feedback properly and then do it using the [the Github issue tracker](../../issues)
 ```
 
-### Contribution
+## Contribution
 
 Info and a link to explanation about contribution rules. Filename must be `CONTRIBUTING.md`. Define rules for your project and describe:
 - When and how report an issue (this is also a contribution),
