@@ -27,7 +27,7 @@ There are different providers. Choose badges wisely and one by one:
 
 It is a must have element. Detaild description of the project.
 
-## Table of Contents
+### Table of Contents
 
 Make it easier to your project user and provide an easy to use table of contents (list of links) to navigate through the readme document.
 
@@ -39,3 +39,10 @@ Make it easier to your project user and provide an easy to use table of contents
 ```
 
 
+### License
+
+License description and a link to license file. Apache 2.0 license file is located in this repo so you can take it to your repository: [LICENSE](LICENSE).
+
+### Contributing
+
+Info and a link to explanation about contribution rules.
