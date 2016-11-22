@@ -50,4 +50,4 @@ Info and a link to explanation about contribution rules. Filename must be `CONTR
 - How to create a Pull Request, and what it should contain,
 - What are the rules you follow during the review
 
-Proper file is located in this repository so you can take it to your repository: [CONTRIBUTING](CENTRIBUTING)
+Proper file is located in this repository so you can take it to your repository: [CONTRIBUTING](CONTRIBUTING)
