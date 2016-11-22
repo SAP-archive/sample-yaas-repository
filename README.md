@@ -43,6 +43,21 @@ Make it easier to your project user and provide an easy to use table of contents
 
 License description and a link to license file. Filename must me `LICENSE.md`. Apache 2.0 license file is located in this repository so you can take it to your repository: [LICENSE](LICENSE).
 
+This is the description that you should place in the section:
+```
+Copyright (c) 2014 [SAP SE](http://www.sap.com) or an SAP affiliate company. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License here: [LICENSE](LICENSE)
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
 ### Contributing
 
 Info and a link to explanation about contribution rules. Filename must be `CONTRIBUTING.md`. Define rules for your project and describe:
