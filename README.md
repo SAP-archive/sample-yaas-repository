@@ -20,7 +20,8 @@ Depending on technology used for your project you can use different badges. Thes
 - Dependencies
 - Test coverage
 
-There are different providers. Choose badges wisely and one by one: 
+There are different providers. Choose badges wisely and one by one:
+- VersionEye
 - https://badge.fury.io/
 - http://shields.io/
 - https://david-dm.org/
