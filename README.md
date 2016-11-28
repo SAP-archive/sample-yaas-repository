@@ -1,4 +1,4 @@
-This is a sample of repository with YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
+This is a sample of a repository containing a YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
 
 **Work for this repository is in progress**
 
@@ -59,7 +59,7 @@ Put instructions on how to develop the project. It must be clear what to do, and
 
 ## License
 
-License description and a link to license file. Filename must me `LICENSE.md`. Apache 2.0 license file is located in this repository so you can take it to your repository: [LICENSE](LICENSE).
+License description and a link to license file. The file name must be `LICENSE`. The Apache 2.0 license file is located in this repository so you can take it over to your repository: [LICENSE](LICENSE).
 
 This is the description that you should place in the section:
 ```
@@ -89,7 +89,7 @@ Info and a link to explanation about contribution rules. Filename must be `CONTR
 - How to create a Pull Request, and what it should contain,
 - What are the rules you follow during the review
 
-Proper file is located in this repository so you can take it to your repository: [CONTRIBUTING](CONTRIBUTING.md)
+The proper file is located in this repository so you can take it over to your repository: [CONTRIBUTING](CONTRIBUTING.md)
 
 ```
 Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute to this project.
