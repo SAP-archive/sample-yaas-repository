@@ -11,7 +11,7 @@ Therefore there are 4 ways you can contribute to this project:
 
 ## Help Others
 
-You can help this project by helping others who use it and need answer for some questions. You will find them on [hybris Experts](https://experts.hybris.com/spaces/151/index.html).
+You can help this project by helping others who use it and need answer for some questions. You will find them on [StackOverflow](http://stackoverflow.com/questions/tagged/tag-name).
 
 ## Analyze Issues
 
@@ -21,23 +21,31 @@ Go to [the Github issue tracker](../../issues) and find an open issue which need
 ## Report an Issue
 
 If you find a defect or you have an idea for improvement you are welcome to report it.
-We can only handle well-reported, actual defects, so please follow the guidelines below and use [hybris Experts](https://experts.hybris.com/spaces/151/index.html) for support questions or when in doubt whether the issue is an actual defect.
+We can only handle well-reported, actual defects, so please follow the guidelines below and use [StackOverflow](http://stackoverflow.com/questions/tagged/tag-name) for support questions or when in doubt whether the issue is an actual defect.
 
 Go to [the Github issue tracker](../../issues) and file an defect if you are sure about it.
 
 ### Quick Checklist for Defects Reports
 
 Issue report checklist:
- * Real, current bug
- * No duplicates
- * Reproducible
- * Good summary
- * Well-documented
- * Minimal example
+ - Real, current bug
+ - No duplicates
+ - Reproducible
+ - Good summary
+ - Well-documented
+ - Minimal example
 
 ### Issue handling process
 
 When an issue is reported, a committer will look at it and either ask for more details or close it if it is not an issue. It will be properly commented.
+
+### Reporting Security Issues
+
+If you find a security issue, please act responsibly and report it not in the public issue tracker, but directly to us. Go to:
+- https://devportal.yaas.io/
+- click on feedback button
+- write down all teh details concerning the issue
+- send the feedback
 
 ### Issue Reporting Disclaimer
 
