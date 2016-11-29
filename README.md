@@ -94,3 +94,11 @@ The proper file is located in this repository so you can take it over to your re
 ```
 Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute to this project.
 ```
+
+## Credits
+
+<p align="center">
+[![YaaS](icons/YaaS.png)](https://yaas.io)
+![SAP Hybris](icons/SAPHybris.png)
+<p align="center">
+:heart: from the GitHub team @ YaaS
