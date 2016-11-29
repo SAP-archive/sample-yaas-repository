@@ -97,6 +97,8 @@ Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute t
 
 ## Credits
 
+Share who is the main contributor, who gives the most to support and provide the project.
+
 <p align="center">
 [![YaaS](icons/YaaS.png)](https://yaas.io)
 ![SAP Hybris](icons/SAPHybris.png)
