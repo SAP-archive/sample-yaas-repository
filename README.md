@@ -41,6 +41,7 @@ Make it easier to your project user and provide an easy to use table of contents
 * [License](#license)
 * [Defects and Feedback](#defects-and-feedback)
 * [Contribution](#contribution)
+* [Credits[(#credits)
 ```
 ## Instalation
 
@@ -115,7 +116,7 @@ Paste the following into the `Credits` section and take the `YaaS.png` icon with
 
 ```
 <p align="center">
-[![YaaS](YaaS.png)](https://yaas.io)
+[![YaaS](https://github.com/YaaS/sample-yaas-repository/blob/master/YaaS.png)](https://yaas.io)
 <p align="center">
 :heart: from the GitHub team @ YaaS
 ```
