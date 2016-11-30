@@ -102,6 +102,6 @@ Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute t
 Share who is the main contributor, who gives the most to support and provide the project.
 
 <p align="center">
-[![YaaS](icons/YaaS.png)](https://yaas.io)
+[![YaaS](YaaS.png)](https://yaas.io)
 <p align="center">
 :heart: from the GitHub team @ YaaS
