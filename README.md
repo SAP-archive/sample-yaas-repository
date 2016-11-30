@@ -1,6 +1,6 @@
-This is a sample of a repository containing a YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
-
 **Work for this repository is in progress**
+
+This is a sample of a repository containing a YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
 
 --
 # Readme Requirements
@@ -95,12 +95,13 @@ The proper file is located in this repository so you can take it over to your re
 Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute to this project.
 ```
 
+### StackOverflow Link
+
 ## Credits
 
 Share who is the main contributor, who gives the most to support and provide the project.
 
 <p align="center">
 [![YaaS](icons/YaaS.png)](https://yaas.io)
-![SAP Hybris](icons/SAPHybris.png)
 <p align="center">
 :heart: from the GitHub team @ YaaS
