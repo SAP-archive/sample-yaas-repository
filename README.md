@@ -105,3 +105,12 @@ Share who is the main contributor, who gives the most to support and provide the
 [![YaaS](YaaS.png)](https://yaas.io)
 <p align="center">
 :heart: from the GitHub team @ YaaS
+
+Paste the following into the `Credits` section and take the `YaaS.png` icon with you:
+
+```
+<p align="center">
+[![YaaS](YaaS.png)](https://yaas.io)
+<p align="center">
+:heart: from the GitHub team @ YaaS
+```
