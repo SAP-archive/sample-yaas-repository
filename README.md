@@ -99,9 +99,7 @@ Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute t
 ### StackOverflow Link
 
 Yes, for open source projects we need to use tools that open source community is using.
-Update the links to the StackOverflow that are added to the `CONTRIBUTING` file. Point them to a proper `tag`. Some hints for it:
-- Choose a tag that is not yet used
-- Add first questions for it and get somebody from your team to answer it
+Update the links to the StackOverflow that are added to the `CONTRIBUTING` file, point them to a proper `tag` for your project if it exists. You need to be a respected StackOverflow user to create tags on your own.
 
 ## Credits
 
