@@ -11,7 +11,7 @@ Therefore there are 4 ways you can contribute to this project:
 
 ## Help Others
 
-You can help this project by helping others who use it and need answer for some questions. You will find them on [StackOverflow](http://stackoverflow.com/questions/tagged/tag-name).
+You can help this project by helping others who use it and need answer for some questions. You will find them on [StackOverflow](http://stackoverflow.com/questions). There is no official tag for this project yet. If you have a power to create one, feel free to do this and let us know.
 
 ## Analyze Issues
 
