@@ -1,4 +1,4 @@
-This is a sample of a repository containing a YaaS related project. It contains all the necessary files and description that every YaaS project on GitHub should have.
+This is a sample of a repository containing a YaaS-related project. It contains all the necessary files and the description that every YaaS project on GitHub should have.
 
 --
 # Readme Requirements
@@ -6,19 +6,19 @@ This is a sample of a repository containing a YaaS related project. It contains 
 
 ## Overview
 
-Readme of your repository should start with 2 elements:
+The README of your repository should start with two elements:
 - Badges (Optional)
 - Description
 
 ### Badges (Optional)
 
-Depending on technology used for your project you can use different badges. These are a good way of sharing important information with your user, like:
+Depending on the technology used for your project, you can use different badges. Badges are a good way of sharing important information with your users, like:
 - Status of CI build plans
 - Number of downloads
 - Dependencies
 - Test coverage
 
-There are different providers. Choose badges wisely and one by one:
+There are different providers of badges. Choose badges wisely and one-by-one:
 - VersionEye
 - https://badge.fury.io/
 - http://shields.io/
@@ -26,11 +26,11 @@ There are different providers. Choose badges wisely and one by one:
 
 ### Description
 
-It is a must have element. Detailed description of the project.
+A detailed description of the project is a must-have element. 
 
 ## Table of Contents
 
-Make it easier to your project user and provide an easy to use table of contents (list of links) to navigate through the readme document.
+Make it easier for your project users and provide an easy-to-use table of contents (list of links) to navigate through the README document.
 
 ```
 * [Installation](#installation)
@@ -39,28 +39,28 @@ Make it easier to your project user and provide an easy to use table of contents
 * [License](#license)
 * [Defects and Feedback](#defects-and-feedback)
 * [Contribution](#contribution)
-* [Credits[(#credits)
+* [Credits](#credits)
 ```
-## Instalation
+## Installation
 
-Explain what are the steps to install your project. For example:
-* If it is a node module, explain how to install it with NPM and what scripts to trigger to make it work
-* If it is a Java lib, explain what maven dependencies and another configuration to perform to get the dependency included in the project
+Explain the steps to install your project. For example:
+* If it is a node module, explain how to install it with NPM and what scripts to trigger to make it work.
+* If it is a Java lib, explain the maven dependencies and any configuration to perform to include the dependencies in the project.
 
 ## Usage
 
-The most important section with a lot of subsections or documentation links.
-Explain how to use the project. Include or the instructions and documentation or provide a link to the page that contains those.
+This is the most important section, with a lot of subsections or documentation links.
+Explain how to use the project. Include the instructions and documentation or provide a link.
 
 ## Development
 
-Put instructions on how to develop the project. It must be clear what to do, and how to trigger tests. Other contributors need to know how to make sure that their pull request will be accepted.
+Add instructions on how to develop the project. It must be clear what to do, and how to trigger tests. Other contributors need to know how to make sure that their pull requests will be accepted.
 
 ## License
 
-License description and a link to license file. The file name must be `LICENSE`. The Apache 2.0 license file is located in this repository so you can take it over to your repository: [LICENSE](LICENSE).
+Include a license description and a link to the license file. The file name must be `LICENSE`. The Apache 2.0 license file is located in this repository so you can copy it to your repository: [LICENSE](LICENSE).
 
-This is the description that you should place in the section:
+This is the description that you should place in the License section:
 ```
 Copyright (c) 2014 [SAP SE](http://www.sap.com) or an SAP affiliate company. All rights reserved.
 
@@ -78,17 +78,17 @@ limitations under the License.
 
 Explain exactly how to provide feedback and report defects for the project:
 ```
-Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to report defects or feedback properly and then do it using the [the Github issue tracker](../../issues)
+Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to report defects or feedback properly using the [the Github issue tracker](../../issues)
 ```
 
 ## Contribution
 
-Info and a link to explanation about contribution rules. Filename must be `CONTRIBUTING.md`. Define rules for your project and describe:
-- When and how report an issue (this is also a contribution),
-- How to create a Pull Request, and what it should contain,
+Provide info and a link to the file explaining the contribution rules. The filename must be `CONTRIBUTING.md`. Define the rules for your project and describe:
+- When and how report an issue (this is also a contribution)
+- How to create a Pull Request, and what it should contain
 - What are the rules you follow during the review
 
-The proper file is located in this repository so you can take it over to your repository: [CONTRIBUTING](CONTRIBUTING.md)
+The CONTRIBUTING.md file is located in this repository so you can copy it to your repository: [CONTRIBUTING](CONTRIBUTING.md)
 
 ```
 Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute to this project.
@@ -96,19 +96,19 @@ Read the [CONTRIBUTING](CONTRIBUTING.md) so you know exactly how to contribute t
 
 ### StackOverflow Link
 
-Yes, for open source projects we need to use tools that open source community is using.
-Update the links to the StackOverflow that are added to the `CONTRIBUTING` file, point them to a proper `tag` for your project if it exists. You need to be a respected StackOverflow user to create tags on your own.
+Yes, for open source projects we need to use tools that the open source community is using.
+Update the links to StackOverflow in the `CONTRIBUTING` file, pointing users to the proper `tag` for your project, if it exists. You need to be a respected StackOverflow user to create tags on your own.
 
 ## Credits
 
-Share who is the main contributor, who gives the most to support and provide the project.
+Share who is the main contributor, and who gives the most support to provide the project.
 
 <p align="center">
 [![YaaS](YaaS.png)](https://yaas.io)
 <p align="center">
 :heart: from the GitHub team @ YaaS
 
-Paste the following into the `Credits` section and take the `YaaS.png` icon with you:
+Paste the following into the `Credits` section and take the **YaaS.png** icon with you:
 
 ```
 <p align="center">
