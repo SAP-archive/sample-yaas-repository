@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+We have decided to stop the maintenance of this public GitHub repository.
+
 This is a sample of a repository containing a YaaS-related project. It contains all the necessary files and the description that every YaaS project on GitHub should have.
 
 --
